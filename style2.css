@@ -1,0 +1,33 @@
+body {
+    font-family: arial;
+}
+
+header {
+    background-color: #0776A0;
+    width: 959px;
+    height: 101px;
+}
+
+header img {
+    position: absolute;
+    margin: 20px 839px 21px 15px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    border-radius: 10px;
+    background: #ffb600;
+    font-size: 30px;
+    position: absolute;
+    padding: 0px 5px 0px 5px;
+    margin: 40px 689px 21px 135px;
+}
+h1 {
+    text-align: center;
+    font-size: 36px;
+}
+
+img {
+    margin: 15px;
+}
